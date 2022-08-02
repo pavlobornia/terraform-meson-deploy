@@ -14,3 +14,5 @@ module "meson-gcp" {
     meson_token = "<your meson token>"
 }
 ```
+
+For details using the module see `example` folder with terraform files
