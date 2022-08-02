@@ -10,6 +10,6 @@ module "meson-gcp" {
     zone2_vm_count = 4
     zone3_vm_count = 4
 
-    meson_token = "forsrxeqtdcznaotvhayrgoq"
+    meson_token = "<your meson token>"
 }
 ```
