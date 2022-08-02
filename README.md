@@ -1,4 +1,5 @@
-# Terraform Module to deploy Meson3 on GCP instacnes https://meson.network/
+# Terraform Module to deploy Meson3 on GCP instacnes
+https://meson.network
 
 ## Example using the module:
 
